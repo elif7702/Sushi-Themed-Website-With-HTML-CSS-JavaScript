@@ -1,3 +1,7 @@
+## Screenshot
+
+![Project Screenshot](assets/ss.png)
+
 # Sushi Website
 
 A modern and responsive Japanese sushi restaurant website.
